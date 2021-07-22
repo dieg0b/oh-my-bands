@@ -3,3 +3,7 @@
 # Node stuffs
 node_modules
 jspm_packages
+# java things
+*.class
+*.jar
+*.war
