@@ -11,3 +11,7 @@ env/
 node_modules
 jspm_packages
 
+# Java things
+*.class
+*.jar
+*.war
