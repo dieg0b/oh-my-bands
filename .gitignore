@@ -1,2 +1,5 @@
 # Ignoring MAC stuff
 .DS_Store
+# Node stuffs
+node_modules
+jspm_packages
